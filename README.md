@@ -8,7 +8,6 @@ To perform an Social Engineering attack to see if anyone would open the email an
 ## Skills Learned
 
 - How to create a Social Engineering attack in the Microsoft 365 Admin portal, under Email & Collaboration and choosing Attack Simulation training, so that employees can stay up-to-date on Cybersecurity awareness.
-- 
 
 ## Tools Used
 
